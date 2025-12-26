@@ -11,6 +11,7 @@ I am currently practicing array-based problems to build strong fundamentals in:
 
 ## Problems Covered
 - Two Sum
+- Min-Max 
 - (More will be added consistently)
 
 ## Language
