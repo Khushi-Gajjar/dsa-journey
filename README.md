@@ -17,6 +17,7 @@ I am currently practicing array-based problems to build strong fundamentals in:
 - subarray-sum-equals-k
 - find-pivot-index
 - Contiguous Array
+- Product-of-Array-Except-Self
 - (More will be added consistently)
 
 ## Language
