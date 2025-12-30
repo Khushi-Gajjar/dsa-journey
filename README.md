@@ -16,6 +16,7 @@ I am currently practicing array-based problems to build strong fundamentals in:
 - range-sum-query
 - subarray-sum-equals-k
 - find-pivot-index
+- Contiguous Array
 - (More will be added consistently)
 
 ## Language
