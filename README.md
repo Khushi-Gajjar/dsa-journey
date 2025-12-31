@@ -12,6 +12,7 @@ I am currently practicing array-based problems to build strong fundamentals in:
 ## Problems Covered
 - Two Sum
 - Min-Max 
+- best-time-to-buy-and-sell
 ## Prefix Sum Pattern
 - range-sum-query
 - subarray-sum-equals-k
