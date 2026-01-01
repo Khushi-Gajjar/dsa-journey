@@ -14,6 +14,7 @@ I am currently practicing array-based problems to build strong fundamentals in:
 - Min-Max 
 - best-time-to-buy-and-sell
 - plus-one
+- move-zero
 ## Prefix Sum Pattern
 - range-sum-query
 - subarray-sum-equals-k
