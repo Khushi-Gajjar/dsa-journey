@@ -17,6 +17,7 @@ I am currently practicing array-based problems to build strong fundamentals in:
 - move-zero
 - running-sum-of-1d-array
 - contains Duplicate
+-remove Duplicates from sorted array
 ## Prefix Sum Pattern
 - range-sum-query
 - subarray-sum-equals-k
